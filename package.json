@@ -1,0 +1,11 @@
+{
+  "name": "com.kinopistudio.core",
+  "version": "1.0.0",
+  "displayName": "Kinopi Studio Core",
+  "icon": null,
+  "unity": "2021.3",
+  "dependencies": {
+    "com.unity.addressables": "1.21.20",
+    "com.cysharp.unitask": "2.5.3"
+  }
+}
